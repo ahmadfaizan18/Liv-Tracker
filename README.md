@@ -3,9 +3,13 @@ Live position tracking web application. This displays other users who are connec
 
 ## Features
 -Real time position tracking with Socket.IO.
+
 -Interactive map provided by Leaflet.js and OpenStreetMap.
+
 -Position tracking via browser with Geolocation API.
+
 -Users can enter their name to be identified.
+
 -Markers will automatically be removed when they disconnect.
 
 ## Technologies Used
